@@ -88,7 +88,7 @@ def load_html():
 
                 - What is Eswaran Krishnamoorthy's educational background?
                 - Can you outline Eswaran Krishnamoorthy's professional experience?
-                - What skills and expertise does Eswaran Krishnamoorthy bring to the table?
+                - What are Eswaran's personal research interests, and what ongoing projects is he engaged in?
 
                 I'm here to assist you. What would you like to know?
                 """
