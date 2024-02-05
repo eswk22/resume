@@ -20,6 +20,7 @@ genai.configure(api_key = genai_api_key)
 # Set model configuration
 model_name = 'models/embedding-001'
 model = genai.GenerativeModel('gemini-pro')
+model.temperature = 0.1
 
 # path & data
 path = os.path.dirname(__file__)
@@ -86,8 +87,8 @@ def load_html():
             welcome_message = """
                 Welcome! I'm **Resume Bot**, specialized in providing information about Eswaran Krishnamoorthy's professional background and qualifications. Feel free to ask me questions such as:
 
-                - What is Eswaran Krishnamoorthy's educational background?
-                - Can you outline Eswaran Krishnamoorthy's professional experience?
+                - What is Eswaran's educational background?
+                - What companies has Eswaran Krishnamoorthy worked for, and what roles did he hold?
                 - What are Eswaran's personal research interests, and what ongoing projects is he engaged in?
 
                 I'm here to assist you. What would you like to know?
