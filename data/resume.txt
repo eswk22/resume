@@ -24,7 +24,7 @@ Companies:
             Spearheaded the development and execution of technical roadmaps, aligning them with business objectives.
             Led the design, development, and implementation of high-impact technical solutions, considering scalability, maintainability.
             Effectively motivated, mentored, and coached a team of 8+ engineers, fostering their technical skills and career growth.
-            Conceptualized, designed, and delivered a new product from ideation to market, resulting in a 56% of Partner engineers support. 
+            Conceptualized, designed, and delivered a new product from ideation to market, resulting in a 56% reduce of Partner engineers support. 
     2. Ericsson
         Location: Overland Park, KS
         Years: Dec-2011 to Jun-2021
@@ -51,7 +51,7 @@ Companies:
 
 Projects(last 3 projects out of 13)
     Tricorder
-        Conceptualized, designed, and delivered product from ideation to market, resulting in a 56% of Partner engineers support.
+        Conceptualized, designed, and delivered product from ideation to market, resulting in a 56% reduce of Partner engineers support.
         Assistant companion app to assistant OEMs to ensure their integration between Car & assistant.
         Tech: Spanner, Boq, Android, Kotlin, Jet Compose. 
 
