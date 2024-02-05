@@ -1,4 +1,4 @@
-LLM based resume bot for Eswar using Gemini-Pro(wiht out langchain).
+LLM based resume bot for Eswar using Gemini-Pro(with out langchain).
 </br>
 </br>
 </br>
