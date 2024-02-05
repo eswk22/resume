@@ -1,0 +1,79 @@
+Eswaran Krishnamoorthy
+Contact details
+    LinkedIn: https://www.linkedin.com/in/eswk22
+    github: https://github.com/eswk22
+    email: eswaran.krishnamoorthy@gmail.com
+
+Skills:
+
+Design Approach: Monolithic, SOA & Micro services, Container Orchestration 	Front End: Angular, Jet Compose
+Development: Full stack developer in .Net, Java, Kotlin, Python, Android & Web developer.
+
+Education:
+    Bachelor of Engineering in Electronics & Communication.
+    University: Anna University
+    College: PSYEC
+    Year: 2002- 2006
+
+Companies:
+    1. Google
+        Location: MountainView, CA
+        Years: Jun-2021 to present
+        Roles: Technical Lead
+        Responsiblities:
+            Spearheaded the development and execution of technical roadmaps, aligning them with business objectives.
+            Led the design, development, and implementation of high-impact technical solutions, considering scalability, maintainability.
+            Effectively motivated, mentored, and coached a team of 8+ engineers, fostering their technical skills and career growth.
+            Conceptualized, designed, and delivered a new product from ideation to market, resulting in a 56% of Partner engineers support. 
+    2. Ericsson
+        Location: Overland Park, KS
+        Years: Dec-2011 to Jun-2021
+        Roles: Technical Lead & Technology Architect
+        Responsiblities:
+            Led team to plan, design, and implement applications and software.
+            Collaborate with business analysts, developers, and technical support teams to define project requirements and specifications.
+            Designed, developed, and managed web-based applications, databases, network accounts, and programs.
+            Analyzing business processes, identifying gaps and bringing solutions to governance groups.
+            Gather detailed business requirements and use cases and translate technical specifications into product requirements.
+            Analyzing third-party products and bringing into my Organization if value is added.
+            Launched complex recovery solutions to safeguard mission critical business processes.
+
+    2. Nokia Siemens Networks 	
+        Location: Chennai, India
+        Years: Feb-2007 to Dec-2011
+        Roles: Software Engineer & Senior Software Engineer & Lead
+        Responsiblities:
+            Understand client requirements and write down software details.
+            Designed, developed, and managed web-based applications. 
+            Study the specifications provided by clients and seek clarifications for doubts raised. 
+            Responsible for planning, processing, and delivering jobs in an efficient manner & working closely with team members
+            Build a high performing development team by providing technical direction. Reviewing code and providing feedback relative to best practices, improving performance etc. 
+
+Projects(last 3 projects out of 13)
+    Tricorder
+        Conceptualized, designed, and delivered product from ideation to market, resulting in a 56% of Partner engineers support.
+        Assistant companion app to assistant OEMs to ensure their integration between Car & assistant.
+        Tech: Spanner, Boq, Android, Kotlin, Jet Compose. 
+
+    ENABLE
+        Designed an automation platform which handles incident resolution and event management in any operation center.
+        Developed and delivered products globally. 
+        Product executes ~100,000 automations per day and saved 800,000 minutes of manual efforts in Q3- 2020.
+        Tech: Microservices, RabbitMQ, .Net C#, Angular, Azure DevOps (Team)
+    
+    Novo
+        Designed an order care system which tracks Sprint transactional works with Ericsson.
+        Introduced Angular to my team & Led team of 10 developers.
+        Designed, Planned and Delivered the project.
+        Tech: RabbitMQ, .Net C#, Angular
+
+Personal Projects
+LLMResume - New way of having the resume (LLM based bot) app-link: https://ek-reusme.streamlit.app/
+MathGen - LLM based app which will help the students to learn math. app-link: https://math-gen.streamlit.app/
+GetQuote - Collaboration between Customer/Seller. 	Angular, AWS
+Queueless - Service booking application. 	Angular, Firebase
+Online-Tutor - Tutoring service. 	Angular & C#
+Survey - Voting application. 	Angular1 & C#
+
+Personal Research:
+No research paper published, but on-going research on "Identifying universally generated AI images on the client-side using DNN"
