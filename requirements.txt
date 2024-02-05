@@ -19,3 +19,4 @@ wkhtmltopdf
 streamlit-javascript
 google-cloud-aiplatform
 langchain-openai
+langchain-community
